@@ -1,6 +1,7 @@
 # Multi Roblox Tab Manager
 
 Credit: [Original Creator](https://www.youtube.com/@AsphaltCake)
+
 Multi Roblox Tab Manager is an AutoHotkey v1 script for managing multiple Roblox client windows at once. It solves the repetitive work of arranging, minimizing, restoring, maintaining, and trimming RAM for many Roblox accounts or sessions.
 
 ## Installation
